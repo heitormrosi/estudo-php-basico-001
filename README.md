@@ -1,7 +1,6 @@
 # estudo-php-basico-001
-Implementação do livro "Learning PHP, MySQL &amp; JavaScript", de Robin Nixon, sétima edição.
+Implementações em PHP a fim de estudo da linguagem.
 
 ## Índice
 
-1. [Introdução ao conteúdo dinâmico da web](./1-web-dinamica/1-web-dinamica.md).
-2. [Configurando um servidor de desenvolvimento](./2-servidor-desenvolvimento/2-servidor-desenvolvimento.md).
+1. [Projetos para praticar sintaxe básica, variáveis, tipos de dados e operações.](./sintaxe-var-dados-op/sintaxe-var-dados-op.md).
