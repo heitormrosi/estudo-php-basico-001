@@ -2,5 +2,7 @@
 Implementações em PHP a fim de estudo da linguagem.
 
 ## Índice
+1. [Arrays simples][Arrays simples]
 
-1. [Projetos para praticar sintaxe básica, variáveis, tipos de dados e operações.](./sintaxe-var-dados-op/sintaxe-var-dados-op.md).
+
+[Arrays simples]: ./curso-intensivo-php/7-arrays-simples/7-arrays-simples.md
