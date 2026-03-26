@@ -19,9 +19,11 @@
 ![Infográfico][Infográfico]
 
 ## Índice
- 
-    
+
+ - 1. Fundamentos da linguagem
+    - [5. Funções personalizadas](./1-5-funcoes-personalizadas/)
+
 
 [Capa do repositório]: ./docs/capa-repo.png
-[Apresentação em PDF]: ./docs/
+[Apresentação em PDF]: ./docs/PHP_8_Workbench.pdf
 [Infográfico]: ./docs/infografico.png
